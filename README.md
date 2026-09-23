@@ -1,4 +1,4 @@
-# taller-20260923
+.nclude <studio.h>
 
 int main(int argc, char * argv[]){
     // char primerY2doNombres[13] = "JERONIMO" ; 
